@@ -1,0 +1,14 @@
+table>thead>tr>th{
+    border: 1px solid blue;
+}
+
+.textoRojo{
+    color: red;
+}
+.textoRojo .negrita{
+    font-weight: bolder;
+}
+
+.miTh{
+    border: 2px solid red !important;
+}
